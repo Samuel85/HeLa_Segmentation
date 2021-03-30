@@ -23,16 +23,16 @@ All images in this project are DIC images of HeLa cells under normal conditions.
 
 Training masks are generated from the DIC images and edited with ImageJ/Fiji. See the directory tree as an example and follow the next steps:
 
-1) Open image.
+1) Open the image.
 
 2) Select the contour of the body with the "Polygon Selection" button.
 
-3) Create mask as "Edit->Selection->Create mask".
+3) Create a mask as "Edit->Selection->Create mask".
 
 4) Select the mask using the "Wand(tracing) tool".
 
-5) Set a number for the body as: "Process->Math->Set", select a number different than 0 (background). For more than two objects (background and nucleus) change "Labels" in the Notebook.
+5) Set a number for the body of the Mask as: "Process->Math->Set", and select a number different than 0 (background). For more than two objects (background and nucleus) change "Labels" in the Notebook.
 
-6) Save image with the same name as the input image.
+6) Save the mask using the same name of the input image, but in the mask folder (see directory tree).
 
 
