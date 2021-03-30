@@ -21,7 +21,7 @@ All images in this project are DIC images of HeLa cells under normal conditions.
 
 # How to create the training masks
 
-Training masks are generated from DIC images and edited with Fiji. See the directory tree as an example and the next steps:
+Training masks are generated from the DIC images and edited with ImageJ/Fiji. See the directory tree as an example and follow the next steps:
 
 1) Open image.
 
