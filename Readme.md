@@ -15,11 +15,11 @@ See the project https://github.com/qubvel/segmentation_models for other backbone
 
  <a href="output.gif"><img src="output.gif" alt="Segmentation timelapse." border="0"></a>
 
-# Images
+# About the Images
 
 All images in this project are DIC images of HeLa cells under normal conditions.
 
-# How to create the training masks
+# How to Create the Training Masks
 
 Training masks are generated from the DIC images and edited with ImageJ/Fiji. See the directory tree as an example and follow the next steps:
 
