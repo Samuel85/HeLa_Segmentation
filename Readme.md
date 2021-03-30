@@ -19,7 +19,7 @@ See the project https://github.com/qubvel/segmentation_models for other backbone
 
 All images in this project are DIC images of HeLa cells under normal conditions.
 
-# Creating Training Masks
+# How to create the training masks
 
 Training masks are generated from DIC images and edited with Fiji. See the directory tree as an example and the next steps:
 
