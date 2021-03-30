@@ -33,6 +33,6 @@ Training masks are generated from the DIC images and edited with ImageJ/Fiji. Se
 
 5) Set a number for the body of the Mask as: "Process->Math->Set", and select a number different than 0 (background). For more than two objects (background and nucleus) change "Labels" in the Notebook.
 
-6) Save the mask using the same name of the input image, but in the mask folder (see directory tree).
+6) Save the mask using the same name of the input image, but inside the masks folder (see directory tree).
 
 
