@@ -1,7 +1,7 @@
 # HeLa Segmentation Notebook
 
 This repository contains a Jupyter-lab Notebook showing image segmentation of HeLa cells' nucleus using TensorFlow and Keras.
-Image segmentation uses a U-net network. The default example uses the "mobilenet" backbone and "imagenet" weights.
+The notebook for image segmentation uses a U-net network. The default example uses the "mobilenet" backbone and "imagenet" weights.
 
 See the project https://github.com/qubvel/segmentation_models for other backbones and weights.
 
